@@ -1,7 +1,7 @@
 <h1>3. Phân tích yêu cầu đề tài</h1>
-  <h2>Software requirement là tài liệu miêu tả những yêu cầu của khách hàng về sản phẩm phần mềm, những hành vi của đối tượng trong sản phẩm đó, đó là những yêu cầu về chức năng hoặc phi chức năng mà sản phẩm phần mềm cần đáp ứng được.</h2>
-  <h2>Việc hiểu đúng Software requirement rất quan trọng trong các bước để phát triển phần mềm. Phân tích requirement sơ sài dẫn tới việc sản phẩm cuối cùng không đáp ứng được yêu cầu, thậm chí là sai lệch hoàn toàn mong muốn</h2>
-  <h2>Hiểu rõ những điểm quan trọng trong việc phân tích requirement, ngay sau khi nhận đề tài, việc đầu tiên nhóm làm là phân tích requirement từ đó đề ra một số tính năng cơ bản mà hệ thống cần đáp ứng được.</h2>
+  <p>Software requirement là tài liệu miêu tả những yêu cầu của khách hàng về sản phẩm phần mềm, những hành vi của đối tượng trong sản phẩm đó, đó là những yêu cầu về chức năng hoặc phi chức năng mà sản phẩm phần mềm cần đáp ứng được.</p>
+  <p>Việc hiểu đúng Software requirement rất quan trọng trong các bước để phát triển phần mềm. Phân tích requirement sơ sài dẫn tới việc sản phẩm cuối cùng không đáp ứng được yêu cầu, thậm chí là sai lệch hoàn toàn mong muốn</p>
+  <p>Hiểu rõ những điểm quan trọng trong việc phân tích requirement, ngay sau khi nhận đề tài, việc đầu tiên nhóm làm là phân tích requirement từ đó đề ra một số tính năng cơ bản mà hệ thống cần đáp ứng được.</p>
   <h2>3.1. Phân chia người dùng</h2>
     <ul>
     <li>Admin - Quản trị hệ thống</li>
