@@ -32,6 +32,7 @@
     <ul>
     <li>Tạo tiêu chí, mẫu tiêu chí chấm điểm</li>
     <li>Chấm điểm</li>
+    <ul>
     <p>Thống kế, báo cáo</p>
     <ul>
     <li>Xuất kết quả trên màn hình</li>
