@@ -3,4 +3,5 @@
 <h2>5.1. Thiết kế cơ sở dữ liệu</h2>
 <h2>5.2. Thiết kế APIs</h2>
 <h2>5.3. Thiết kế luồng giao diện</h2>
+![ui-flow](https://github.com/ngdangkiet/thesis-document/assets/79961645/114a9252-3673-4331-8e7a-68597c9ec763)
 <h2>5.4. Thiết kế một số chức năng</h2>
