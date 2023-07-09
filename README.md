@@ -5,8 +5,8 @@
 <p>Updating... </p>
 <h2>Contact</h2>
 <ul>
-  <li>Gmail: <a href="kietnguyen17052001@gmail.com.vn">kietnguyen17052001@gmail.com</a></li>
-  <li>Outlook: <a href="kiet.nguyen-dang@banvien.com.vn">kiet.nguyen-dang@banvien.com.vn</a></li>
+  <li>Gmail: <a href="mailto:kietnguyen17052001@gmail.com.vn">kietnguyen17052001@gmail.com</a></li>
+  <li>Outlook: <a href="mailto:kiet.nguyen-dang@banvien.com.vn">kiet.nguyen-dang@banvien.com.vn</a></li>
 </ul>
 <h2>Tech Stack</h2>
 <ul>
